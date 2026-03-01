@@ -1,0 +1,30 @@
+# --- Java Compilation ---
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+
+# --- Project Specifics (Homeaway) ---
+# Ignorar ficheiros de dados serializados (binários pesados)
+data/*.ser
+# Ignorar ficheiros de texto gerados pelo comando exit/save
+*.txt
+!requirements.txt
+!README.md
+
+# --- IDEs & System ---
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# --- Build Tools ---
+.gradle/
+build/
+target/
