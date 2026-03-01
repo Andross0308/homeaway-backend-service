@@ -1,5 +1,5 @@
 # homeaway-backend-service
-A custom Java backend application for student service management. Built from scratch without java.util to demonstrate mastery of Data Structures, Memory Management, and Geometric Search.
+A custom Java backend application for student service management. Built from scratch without java.util to demonstrate mastery of Data Structures, Memory Management, and Geometric Search. Statement and code done for the subject Algorithms and Data Structures of the NOVA FCT 
 
 Homeaway From Home - Academic Services Management
 This system manages a geographical database of services (Eating, Lodging and Leisure) for international students.
